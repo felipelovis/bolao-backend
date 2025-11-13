@@ -11,7 +11,7 @@ function hashString(str) {
 // PARTICIPANTES COM CÓDIGOS HASHEADOS
 // IMPORTANTE: Nunca exponha os códigos originais!
 const PARTICIPANTES_HASH = {
-  "Felipe": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",  // ABC123
+  "Felipe": "e0bebd22819993425814866b62701e2919ea26f1370499c1037b53b9d49c2c8a",  // ABC123
   "João": "3cf48d9dfb6af91ee1e91b2ec0ba924b1a8b85d2d2b8e3b4c8c5e3b0f6e3a2d1",    // XYZ789
   "Maria": "7b52009b64fd0a2a49e6d8a939753077792b0554",                          // QWE456
   "Pedro": "8843d7f92416211de9ebb963ff4ce28125932878",                          // ASD321
